@@ -1,8 +1,6 @@
 ## d3 Relation graph using React typescript
 
-## Available Scripts
-
-In the project directory, you can run:
+feel free to copy & fork this repo to try out the graph & modify it to match your needs.
 
 ### `yarn start`
 
