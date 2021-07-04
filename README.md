@@ -2,6 +2,11 @@
 
 feel free to copy & fork this repo to try out the graph & modify it to match your needs.
 
+## Example
+
+working example in codepen 
+https://codepen.io/tomdor123/pen/MWmaGmd?editors=1010
+
 ### `npm start`
 
 Runs the app in the development mode.\
